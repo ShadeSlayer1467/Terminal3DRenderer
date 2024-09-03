@@ -1,0 +1,4 @@
+hold M to open map
+
+"mini map"
+Run/walk keys
